@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: wededo4644/workout_backend:3
+          image: wededo4644/workout_backend:5
           ports:
             - containerPort: 4000
           env:
